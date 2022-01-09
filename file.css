@@ -12,6 +12,10 @@ body {
     font-size: 25px;
 } 
 
+.intro p {
+    margin: 50px;
+}
+
 .review {
     margin-inline: 15%;
 }
